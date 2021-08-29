@@ -5,8 +5,8 @@ My name is SibianDG and I'm 21 years old and currently studying Applied Computer
 
 
 ## My GitHub stats!
-[![SibianDG GitHub stats](https://github-readme-stats.vercel.app/api?username=SibianDG&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SibianDG&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![SibianDG GitHub stats](https://github-readme-stats.vercel.app/api?username=SibianDG&show_icons=true&theme=merko&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SibianDG&layout=compact&theme=merko&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me:
 [Via my site](https://sibiandg.be)
